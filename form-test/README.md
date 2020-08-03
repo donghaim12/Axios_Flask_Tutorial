@@ -1,3 +1,6 @@
+React를 이용해서 간단하게 화면을 구성하고 flask 웹프레임워크를 통한 data communication 예제입니다.
+
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
 ## Available Scripts
